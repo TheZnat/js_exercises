@@ -1,5 +1,3 @@
-let num = 98;
-fun(num);
 function fun(num){
     for (let i = 0; i <= num; i++){
         switch (i){
@@ -24,4 +22,4 @@ function fun(num){
         }
     }
 }
-
+fun(102);
