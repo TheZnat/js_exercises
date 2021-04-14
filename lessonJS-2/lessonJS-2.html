@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>lessonJs-2</title>
+</head>
+<body>
+<h2>Как зажечь лампочку на Js</h2>
+<p>Для этого нужно изменить значение атрибутов в HTML</p>
+</br>
+<p>Метод document.getElementById() возвращает ссылку на элемент, который имеет атрибут id с указанным значением.</p>
+</br>
+<p>В этом случае JavaScript изменяет значение атрибута src (source) изображения.</p>
+</br>
+<button onclick="document.getElementById('myImage').src='light_bulb_on.png'">Включить свет</button>
+<img id="myImage" src="light_bulb_off.png" style="width: 25%">
+<button onclick="document.getElementById('myImage').src='light_bulb_off.png'">Выключить свет</button>
+</body>
+</html>
