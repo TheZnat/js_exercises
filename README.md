@@ -5,3 +5,4 @@
 + [медиана массива](https://github.com/TheZnat/js_exercises/blob/main/medianaArray.js), [задача дешифратор](https://github.com/TheZnat/js_exercises/blob/main/task_novice_decryptor.js), [FizzBuzz](https://github.com/TheZnat/js_exercises/blob/main/FizzBuzz.js)
 + [лучший из трех прыжков](https://github.com/TheZnat/js_exercises/blob/main/three_best_jumps.js), [шахматная доска](https://github.com/TheZnat/js_exercises/blob/main/Chessboard.js), [Палиндром числа](https://github.com/TheZnat/js_exercises/blob/main/Palindrome_number.js)
 + [import area triangle](https://github.com/TheZnat/js_exercises/tree/main/importTreningJs), [comparers](https://github.com/TheZnat/js_exercises/blob/main/comparers.js), [add Digits](https://github.com/TheZnat/js_exercises/blob/main/addDigits.js)
++ [заглавная букву каждого слова](https://github.com/TheZnat/js_exercises/blob/main/solition.js)
