@@ -7,5 +7,5 @@
 + [import area triangle](https://github.com/TheZnat/js_exercises/tree/main/importTreningJs), [comparers](https://github.com/TheZnat/js_exercises/blob/main/comparers.js), [add Digits](https://github.com/TheZnat/js_exercises/blob/main/addDigits.js)
 + [заглавная букву каждого слова](https://github.com/TheZnat/js_exercises/blob/main/solition.js)
 ### Алгоритмы и структуры данных
- +[Linear search](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/1_linear_search.js), [Binary search](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/2_binary_search.js), [Select sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/3_select_sort.js)
- +[Babble sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/4_babble_sort.js)
++[Linear search](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/1_linear_search.js), [Binary search](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/2_binary_search.js), [Select sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/3_select_sort.js)
+++ [Babble sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/4_babble_sort.js)
