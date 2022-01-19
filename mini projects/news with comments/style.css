@@ -1,0 +1,32 @@
+page{
+    margin: 0;
+    font-size:18px;
+}
+
+.dark-theme {
+    color: #f2f2f2;
+    background-color: #17161a;
+}
+
+.container{
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+}
+.sub-title_message {
+    font-family: ‘Raleway’,sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: center;
+}
+
+.title_message{
+    font-family: ‘Raleway’,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+

@@ -1,0 +1,89 @@
+
+page{
+    margin: 0;
+    font-size:18px;
+}
+
+.dark-theme {
+    color: #f2f2f2;
+    background-color: #17161a;
+}
+
+.container{
+    max-width: 800px;
+    margin: 30px auto;
+    background: #b1acac;
+    padding: 30px;
+}
+
+h1{
+    text-align:center;
+    margin-bottom: 40px;
+}
+
+
+.slider-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider{
+    width: 512px;
+    height: 256px;
+    border: 1px solid black;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.slider-line{
+    height: 256px;
+    width: 2560px;
+    display: flex;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+
+
+.bth-left, .bth-right {
+    width: 25px;
+    height: 25px;
+    background-color: gray;
+    display: inline-flex;
+    border-radius: 50%;
+    cursor: pointer;
+    position: relative;
+    margin: 5px
+}
+
+.bth-left::before, .bth-right::before{
+    content: '';
+    width: 6px;
+    height: 6px;
+    position: absolute;
+}
+
+.bth-left::before{
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    transform: rotate(-45deg);
+    top: 6px;
+    left: 7px;
+}
+
+.bth-right::before{
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+    transform: rotate(45deg);
+    top: 6px;
+    left: 7px;
+}
+
+.bth-left:hover, .bth-right:hover{
+    background-color:lightgrey;
+}
+
+.bth-left:hover::before,.bth-right:hover::before{
+    border-color: gray;
+}
