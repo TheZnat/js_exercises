@@ -10,8 +10,8 @@
 + [количество уникальных элементов](https://github.com/TheZnat/js_exercises/blob/main/trening/string3.js), [Валидность одной скобки](https://github.com/TheZnat/js_exercises/blob/main/trening/checkIsBalanced_1.js), [Валидность скобок](https://github.com/TheZnat/js_exercises/blob/main/trening/isValid.js), [Функция flatten](https://github.com/TheZnat/js_exercises/blob/main/trening/flatten.js)
 ### Объекты
 + [normalizes the data Object](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/obj1.js), [счетчик слов в предложении - возвращает в объекте](https://github.com/TheZnat/js_exercises/blob/main/trening/words.js)
-+ [cloneDeep](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/cloneDeep.js),[compares objects](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/company.js)
-+ [domain.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/domain.js),[getSortedNames.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/getSortedNames.js)
++ [cloneDeep](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/cloneDeep.js), [compares objects](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/company.js)
++ [domain.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/domain.js), [getSortedNames.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/getSortedNames.js)
 + [make.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/make.js), [extracts from an object of any nesting depth](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/objects1.js)
 + [fills an object with data from another object according to the allowed list of keys](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/objects2.js), [pick.js](https://github.com/TheZnat/js_exercises/blob/main/trening/curse_obj/pick.js)
 ### Алгоритмы и структуры данных
