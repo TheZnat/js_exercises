@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    min-width: 100%;
+}
+
+.page {
+    background-image: url(ph/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    transition: all ease 1s;
+}
+
+.light {
+    position: absolute;
+    top: 200px;
+    left: 120px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: radial-gradient(circle at center, rgba(255, 255, 0, 0.74) 10%, rgba(240, 243, 117, 0.55) 40%, rgba(242, 245, 179, 0.18) 70% );
+    transition: all ease 1s;
+}
+
+.light_early_morning{
+    position: absolute;
+    top: 200px;
+    left: 120px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: radial-gradient(circle at center, rgba(234, 234, 80, 0.2) 10%, rgba(235, 239, 61, 0.2) 40% );
+    transition: all ease 1s;
+}
+
+.light_evening {
+    position: absolute;
+    top: 200px;
+    left: 120px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: radial-gradient(circle at center, rgba(255, 255, 0, 0.84) 10%, #f0f375 40%, rgba(242, 245, 179, 0.18) 70% );
+    transition: all ease 1s;
+}
+.myLamp{
+    margin-top: 200px;
+    margin-left: 120px;
+    width: 200px;
+}
