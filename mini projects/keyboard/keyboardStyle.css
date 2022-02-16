@@ -1,0 +1,112 @@
+.container{
+    margin: auto;
+    max-width: 1200px;
+    padding: 30px 20px 5px 30px;
+}
+
+.keyboard{
+    border: 1px solid silver;
+    padding: 6px;
+    border-radius: 4px;
+    position: relative;
+    width: 689px;
+}
+
+.line::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.key{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border: 1px solid silver;
+    border-radius: 4px;
+    margin: 3px;
+    padding: 4px;
+    text-align: center;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+.key:hover {
+    color: #f2f2f2;
+    cursor: pointer;
+    background-color: #708090FF;
+}
+
+.backspace{
+    width: 82px;
+}
+
+.tab .capsLock{
+    width: 60px;
+}
+
+.left-shift{
+    width: 80px;
+}
+
+.right-shift{
+    width: 90px;
+}
+
+.left-ctrl, .right-ctrl{
+    width: 60px;
+}
+
+.img-key{
+    height: 24px;
+    padding-top: 5px;
+}
+
+.space{
+    width: 275px;
+    content: "";
+}
+
+.letter-key{
+    font-size: 10px;
+    line-height: 100%;
+}
+
+.enter{
+    position: absolute;
+    right: 8px;
+    top: 51px;
+    width: 80px;
+    height: 86px;
+}
+
+.computer {
+    display: flex;
+    flex-direction: column;
+    height: 240px;
+    padding: 16px 10px;
+    margin-bottom: 10px;
+}
+
+.display-wrapper {
+    border-radius: 6px;
+    margin-bottom: 12px;
+    padding: 4px;
+    background-image: linear-gradient(to bottom, #1a2133, #4d6398);
+}
+
+.display {
+    height: 134px;
+    overflow: auto;
+    padding: 8px 28px 16px;
+    word-wrap: break-word;
+    border-radius: 4px;
+    background-color: #2b3755;
+}
+
+.button.clear {
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
