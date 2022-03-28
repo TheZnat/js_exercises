@@ -1,6 +1,6 @@
 # практика js
 ![Иллюстрация к проекту](https://github.com/TheZnat/js_exercises/blob/main/js/file_type_js_official_icon_130509.png)
-### задачи
+### Задачи
 + [лампочка](https://github.com/TheZnat/js_exercises/blob/main/lessonJS-2/lessonJS-2.html), [кнопка](https://github.com/TheZnat/js_exercises/blob/main/lessonJs-1/lessonJs-1.html), [функция](https://github.com/TheZnat/js_exercises/blob/main/1_homework.js);
 + [медиана массива](https://github.com/TheZnat/js_exercises/blob/main/trening/medianaArray.js), [задача дешифратор](https://github.com/TheZnat/js_exercises/blob/main/trening/task_novice_decryptor.js), [FizzBuzz](https://github.com/TheZnat/js_exercises/blob/main/trening/FizzBuzz.js)
 + [лучший из трех прыжков](https://github.com/TheZnat/js_exercises/blob/main/trening/three_best_jumps.js), [шахматная доска](https://github.com/TheZnat/js_exercises/blob/main/trening/Chessboard.js), [Палиндром числа](https://github.com/TheZnat/js_exercises/blob/main/trening/Palindrome_number.js)
