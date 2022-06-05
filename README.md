@@ -20,7 +20,7 @@
 + [Babble sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/4_babble_sort.js), [Quick-sort](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/5_Quick-sort_houar.js), [Breadth search](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/6_breadth_search.js)
 + [Algorithm Dijkstra](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/7_algorithm_dijkstra.js)
 ### Паттерны проектирования 
-+ [Flyweight end Facade](https://github.com/TheZnat)
++ [Flyweight end Facade](https://github.com/TheZnat/js_exercises/blob/main/Patern%20js/patern1.js)
 ### Практика проекты 
 + [Слайдер 1.0](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/js%20slider)
 + [Автоматизированная лампочка](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/processAut)
