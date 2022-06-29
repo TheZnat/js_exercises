@@ -21,6 +21,8 @@
 + [Algorithm Dijkstra](https://github.com/TheZnat/js_exercises/blob/main/Algorithms%20and%20data%20structures%20js/7_algorithm_dijkstra.js)
 ### Паттерны проектирования 
 + [Flyweight end Facade](https://github.com/TheZnat/js_exercises/blob/main/Patern%20js/patern1.js)
+### Асинхронность в JS
++ [MyPromise](https://github.com/TheZnat/)
 ### Практика проекты 
 + [Слайдер 1.0](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/js%20slider)
 + [Автоматизированная лампочка](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/processAut)
