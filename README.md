@@ -28,6 +28,7 @@
 + [Слайдер 1.0](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/js%20slider)
 + [Автоматизированная лампочка](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/processAut)
 + [Новостник с комментариями](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/news%20with%20comments)
++ [Фото галлерея](https://github.com/TheZnat/Architecture-of-information-systems)
 + [toDoList](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/toDo1.0)
 + [keyboard 1.0](https://github.com/TheZnat/js_exercises/tree/main/mini%20projects/keyboard)
 + [Магазин гитар](https://github.com/TheZnat/Guitar-shop)
